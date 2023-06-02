@@ -1,0 +1,16 @@
+{
+  "pluginName": "Utools vue",
+  "description": "Utools + Vue demo",
+  "version": "0.0.1",
+  "author": "lexur",
+  "main": "vue/index.html",
+  "update": false,
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "hello",
+      "explain": "hello world",
+      "cmds": ["hello", "你好"]
+    }
+  ]
+}
